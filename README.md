@@ -1,3 +1,3 @@
-# Vectorpark
+# Sketches
 
-scripts for adobe illustrator!
+p5.js sketches.
